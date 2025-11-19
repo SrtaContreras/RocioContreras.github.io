@@ -1,33 +1,76 @@
-Rocio Elisa Contreras Flores
+# 🌐 **Rocio Elisa Contreras Flores**
 
-Path: (JavaScript)
+**Path:** *(JavaScript Developer)*
 
-INDEX:
-This repository contains my Digital Curriculum Vitae developed as a web page. Below is a breakdown of the structure and content of each section:
+---
 
-Home Page:
-General introduction and welcome section. Includes a brief overview of who I am and the purpose of the digital résumé.
+## 📌 **Index**
 
-About Me:
+* 🏠 [Home Page](#-home-page)
+* 👩‍💻 [About Me](#-about-me)
+* 🚀 [My Projects](#-my-projects)
+* 🤝 [Volunteers](#-volunteers)
+* 🛠️ [Habilities](#-habilities)
+* 📬 [Contact](#-contact)
+* 📄 [About This Repository](#-about-this-repository)
+
+---
+
+## 🏠 **Home Page**
+
+General introduction and welcome section.
+It includes a brief overview of who I am and the purpose of this **Digital Curriculum Vitae**.
+
+---
+
+## 👩‍💻 **About Me**
+
 Personal information, academic background, and professional experience.
-Here I describe my career path, interests, and professional goals.
+Here I describe my career path, interests, and long-term professional goals.
 
-My Projects:
-A showcase of the projects I have developed, including short descriptions, technologies used, and links (if applicable).
+---
 
-Volunteers:
-A section dedicated to my volunteer work and participation in social or community projects.
+## 🚀 **My Projects**
 
-Habilities:
-A list of my technical and soft skills, including proficiency in programming languages, tools, and methodologies.
+A showcase of the projects I have worked on.
+Each project includes:
 
-Contact:
-Contact information so visitors or recruiters can easily reach out to me.
+* A short description
+* Technologies used
+* Links or demos (when available)
 
-About:
-This repository represents my interactive digital résumé, developed using web technologies, mainly JavaScript, to present my professional profile in a modern and accessible way.
-The goal of this project is to offer a dynamic version of my CV, allowing people to learn more about my experience, projects, and skills through a visual and intuitive interface.
+---
 
+## 🤝 **Volunteers**
 
-© 2023 - 2025 Rocio Elisa Contreras Flores
-All rights reserved.
+A dedicated section highlighting my participation in volunteer activities, social initiatives, or community projects, as well as the impact of my contributions.
+
+---
+
+## 🛠️ **Habilities**
+
+A list of both technical and soft skills, including:
+
+* Programming languages
+* Tools and frameworks
+* Professional and personal competencies
+
+---
+
+## 📬 **Contact**
+
+Contact information so visitors or recruiters can easily get in touch with me.
+
+---
+
+## 📄 **About This Repository**
+
+This repository contains my **interactive digital résumé**, developed using web technologies, mainly **JavaScript**.
+The goal of this project is to provide a modern and dynamic version of my CV, allowing people to explore my experience, projects, and skills through a clean and intuitive interface.
+
+---
+
+### © 2023 - 2025 *Rocio Elisa Contreras Flores*
+
+*All rights reserved.*
+
